@@ -5,7 +5,7 @@
   <groupId>freestyle.falcons</groupId>
   <artifactId>test</artifactId>
   <version>0.1</version>
-  <packaging>jar</packaging>
+  <packaging>war</packaging>
   <build>
   <plugins>
 	<plugin>
